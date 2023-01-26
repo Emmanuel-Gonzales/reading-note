@@ -11,52 +11,52 @@ this class with convienet and easy to read notes
 
 ## Table of Contents
 
-Code 102 Reading Notes
+Code 102 Reading Notes 
 
-* [Read 01 - Learning Markdown](https://emmanuel-gonzales.github.io/reading-notes/Class%2001-Markdown%20Notes)
+* [Read: 02 - Markdown Notes](Code-102-Reading-Notes/Class-01-Markdown-Notes.md)
 
-* [Read: 02 - The Coder's Computer](https://emmanuel-gonzales.github.io/reading-notes/Class%2002-The%20Coder's%20Computer)
+* [Read: 02 - The Coder's Computer](Code-102-Reading-Notes/Class-02-The-Coder's-Computer.md)
 
-* [Read: 03 - Revisions and the Cloud](https://emmanuel-gonzales.github.io/reading-notes/Class%2003-Revisions%20and%20the%20Cloud)
+* [Read: 03 - Revisions and the Cloud](/Code-102-Reading-Notes/Class-03-Revisions-and-the-Cloud.md)
 
-* [Read 04 - Structure web pages with HTML](https://emmanuel-gonzales.github.io/reading-notes/Class%2004-Structure%20web%20pages%20with%20HTML)
+* [Read: 04 - Structure web pages with HTML](Code-102-Reading-Notes/Class-04-Structure-web-pages-with-HTML.md)
 
-* [Read 05 - Design web pages with CSS](https://emmanuel-gonzales.github.io/reading-notes/Class%2005-Design%20web%20pages%20with%20CSS)
+* [Read: 05 - Design web pages with CSS](Code-102-Reading-Notes/Class-05-Design-web-pages-with-CSS.md)
 
-* [Read 06 - Activate web pages with JavaScript](https://emmanuel-gonzales.github.io/reading-notes/Class%2006-Activate%20web%20pages%20with%20JavaScript)
+* [Read: 06 - Activate web pages with JavaScript](Code-102-Reading-Notes/Class-06-Activate-web-pages-with-JavaScript.md)
 
-* [Read 07 - Programming with JavaScript](https://emmanuel-gonzales.github.io/reading-notes/Class%2007-Programming%20with%20JavaScript)
+* [Read: 07 - Programming with JavaScript](Code-102-Reading-Notes/Class-07-Programming-with-JavaScript.md)
 
-* [Read 08 - Operators and Loops](https://emmanuel-gonzales.github.io/reading-notes/Class%2008-Operators%20and%20Loops)
+* [Read: 08 - Operators and Loops](Code-102-Reading-Notes/Class-08-Operators-and-Loops.md)
 
 Code 201 Reading Notes
 
-* [Read 01]()
+* [Read: 01](Code-201-Reading-Notes/Class-01.md)
 
-* [Read 02]()
+* [Read: 02](Code-201-Reading-Notes/Class-02.md)
 
-* [Read 03]()
+* [Read: 03](Code-201-Reading-Notes/Class-03.md)
 
-* [Read 04]()
+* [Read: 04](Code-201-Reading-Notes/Class-04.md)
 
-* [Read 05]()
+* [Read: 05](Code-201-Reading-Notes/Class-05.md)
 
-* [Read 06]()
+* [Read: 06](Code-201-Reading-Notes/Class-06.md)
 
-* [Read 07]()
+* [Read: 07](Code-201-Reading-Notes/Class-07.md)
 
-* [Read 08]()
+* [Read: 08](Code-201-Reading-Notes/Class-08.md)
 
-* [Read 09]()
+* [Read: 09](Code-201-Reading-Notes/Class-09.md)
 
-* [Read 10]()
+* [Read: 10](Code-201-Reading-Notes/Class-10.md)
 
-* [Read 11]()
+* [Read: 11](Code-201-Reading-Notes/Class-11.md)
 
-* [Read 12]()
+* [Read: 12](Code-201-Reading-Notes/Class-13.md)
 
-* [Read 13]()
+* [Read: 13](Code-201-Reading-Notes/Class-13.md)
 
-* [Read 14]()
+* [Read: 14](Code-201-Reading-Notes/Class-14.md)
 
-* [Read 15]()
+* [Read: 15](Code-201-Reading-Notes/Class-15.md)

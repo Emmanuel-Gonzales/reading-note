@@ -7,11 +7,15 @@ Markdown is a program used to write html code in a much simplified manner. The s
 ## Markdown Syntax
 
 * ### Use this symbol to write headers. I goes from one to six.
+
 * To write paragraphs just type, no extra syntax needed.
 * lists are made with -, +, or*
   - Sub lists are made by indenting under an existing list
+
 * To add a break in the paragraph just skip a line in the code
-* Text can be made **bold** using ( ** ) or *italicized* using (*), 
+
+* Text can be made **bold** using ( ** ) or 
+*italicized* using (*), 
 * A [link](https://www.youtube.com/watch?v=_kEzW3MgKm8) Is created by typing the "word" in [ ] then (url)"
 * And much more
 
