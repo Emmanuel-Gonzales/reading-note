@@ -13,21 +13,21 @@ this class with convienet and easy to read notes
 
 Code 102 Reading Notes 
 
-* [Read: 02 - Markdown Notes](Code-102-Reading-Notes/Class-01-Markdown-Notes.md)
+* [Read: 01 - Markdown Notes](Code-102-Reading-Notes/Code-102-Reading-Notes/Class-01-Markdown-Notes.md)
 
-* [Read: 02 - The Coder's Computer](Code-102-Reading-Notes/Class-02-The-Coder's-Computer.md)
+* [Read: 02 - The Coder's Computer](Code-102-Reading-Notes/Code-102-Reading-Notes/Class-02-The-Coder's-Computer.md)
 
-* [Read: 03 - Revisions and the Cloud](/Code-102-Reading-Notes/Class-03-Revisions-and-the-Cloud.md)
+* [Read: 03 - Revisions and the Cloud](Code-102-Reading-Notes/Code-102-Reading-Notes/Class-03-Revisions-and-the-Cloud.md)
 
-* [Read: 04 - Structure web pages with HTML](Code-102-Reading-Notes/Class-04-Structure-web-pages-with-HTML.md)
+* [Read: 04 - Structure web pages with HTML](Code-102-Reading-Notes/Code-102-Reading-Notes/Class-04-Structure-web-pages-with-HTML.md)
 
-* [Read: 05 - Design web pages with CSS](Code-102-Reading-Notes/Class-05-Design-web-pages-with-CSS.md)
+* [Read: 05 - Design web pages with CSS](Code-102-Reading-Notes/Code-102-Reading-Notes/Class-05-Design-web-pages-with-CSS.md)
 
 * [Read: 06 - Activate web pages with JavaScript](Code-102-Reading-Notes/Class-06-Activate-web-pages-with-JavaScript.md)
 
-* [Read: 07 - Programming with JavaScript](Code-102-Reading-Notes/Class-07-Programming-with-JavaScript.md)
+* [Read: 07 - Programming with JavaScript](Code-102-Reading-Notes/Code-102-Reading-Notes/Class-07-Programming-with-JavaScript.md)
 
-* [Read: 08 - Operators and Loops](Code-102-Reading-Notes/Class-08-Operators-and-Loops.md)
+* [Read: 08 - Operators and Loops](Code-102-Reading-Notes/Code-102-Reading-Notes/Class-08-Operators-and-Loops.md)
 
 Code 201 Reading Notes
 
