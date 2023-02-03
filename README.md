@@ -31,29 +31,29 @@ this class with convienet and easy to read notes
 
 ## Code 201 - Foundations of Software Development
 
-* [Read: 01](Code-201-Reading-Notes/Class-01.md)
+* [Read: 01 - Introductory HTML and JavaScript](Code-201-Reading-Notes/Class-01-Introductory-HTML-and-JavaScript.md)
 
-* [Read: 02](Code-201-Reading-Notes/Class-02.md)
+* [Read: 02 - Basics of HTML, CSS & JS](Code-201-Reading-Notes/Class-02-Basics-of-HTML,-CSS-&-JS.md)
 
-* [Read: 03](Code-201-Reading-Notes/Class-03.md)
+* [Read: 03 - HTML Lists, Control Flow with JS, and the CSS Box Model](Code-201-Reading-Notes/Class-03-HTML-Lists,-Control-Flow-with-JS,-and-the-CSS-Box-Model.md)
 
-* [Read: 04](Code-201-Reading-Notes/Class-04.md)
+* [Read: 04 - HTML Links, JS Functions, and Intro to CSS Layout](Code-201-Reading-Notes/Class-04-HTML-Links,-JS-Functions,-and-Intro-to-CSS-Layout.md)
 
-* [Read: 05](Code-201-Reading-Notes/Class-05.md)
+* [Read: 05 - Images, Color, Text](Code-201-Reading-Notes/Class-05-Images,-Color,-Text.md)
 
-* [Read: 06](Code-201-Reading-Notes/Class-06.md)
+* [Read: 06 - Problem Domain, Objects, and the DOM](Code-201-Reading-Notes/Class-06-Problem-Domain,-Objects,-and-the-DOM.md)
 
-* [Read: 07](Code-201-Reading-Notes/Class-07.md)
+* [Read: 07 - Object-Oriented Programming, HTML Tables](Code-201-Reading-Notes/Class-07-Object-Oriented-Programming,-HTML-Tables.md)
 
-* [Read: 08](Code-201-Reading-Notes/Class-08.md)
+* [Read: 08 - CSS Layouts](Code-201-Reading-Notes/Class-08-CSS-Layout.md)
 
-* [Read: 09](Code-201-Reading-Notes/Class-09.md)
+* [Read: 09 - Forms and JS Events](Code-201-Reading-Notes/Class-09-Forms-and-JS-Events.md)
 
-* [Read: 10](Code-201-Reading-Notes/Class-10.md)
+* [Read: 10 - Debugging](Code-201-Reading-Notes/Class-10-Debugging.md)
 
-* [Read: 11](Code-201-Reading-Notes/Class-11.md)
+* [Read: 11 - Audio, Video, Images](Code-201-Reading-Notes/Class-11-Audio,-Video,-Images.md)
 
-* [Read: 12](Code-201-Reading-Notes/Class-13.md)
+* [Read: 12 - Chart.js, Canvas](Code-201-Reading-Notes/Class-12-Chart.js-Canvas.md)
 
 * [Read: 13](Code-201-Reading-Notes/Class-13.md)
 
