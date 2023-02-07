@@ -24,3 +24,41 @@ EX:  This is the < abbr title="Abbreviation" >abb< /abbr > of a word.
   * **Inline** - Using a style atribute inside a HTML tag
 
 * You want to stay away from using inline styles as much as posible because it involves mixing CSS and HTML code together making harder to read
+
+* Look at this CSS code 
+
+   h2 {
+    
+     color: black;
+    
+     padding: 5px;
+   
+   }
+   
+   * The "h1" is the selector
+
+   * "color: black" and "padding: 5px" are the declorations
+
+   * "color" and "padding" are properties
+
+## JavaScript
+
+* A **string** is a sequence of text surounded by quotes
+
+* Operators
+
+  * (+) Plus operators - Adds numbers and combines strings
+
+  * (=) Assignment - Assigns a value to a veriable
+
+  * (&&) Logical And - Allows you to chain two or more expressions together so that both of them have to be true
+
+  * You can make your code shorter using functions.
+
+* An if statement checks a **condition** and if it evaluates to **true** then the code block will execute.
+
+* Am else is statement is used at the end of an if chain, if none of the conditions are met then this is the last resort.
+
+* The three different types of comparison operators are logical AND, logical OR, and logical Not
+
+* When a logical AND (&&) is used BOTH conditions must be true, and with a logical OR (||) at least one condition must be true.
