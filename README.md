@@ -59,7 +59,7 @@ this class with convienet and easy to read notes
 
 * [Read: 14](Code-201-Reading-Notes/Class-14.md)
 
-* [Read: 15](Code-201-Reading-Notes/Class-15.md)
+* [Read: 14 Psychological Safety](Code-201-Reading-Notes/Class-14:-Psychological-Safety.md)
 
 ## Code 301 - Intermediate Software Development
 

@@ -1,0 +1,7 @@
+# Psychological Safety
+
+Studies have found that productivity of companies and projects are reliant on how people work together on teams. Having teams that work well together is one of the most important parts of personal and professional life. How similar the members are or background won't affect the productivity of a team as much as you think, it's more how the group acts and the group norms. How the group treats each other, successful groups norms are equality of speech, each member talks roughly the same amount of time, and group sensitivity, the participants in a group are able to tell how others are feeling, verbally or non verbally.
+
+When I was in high school I was in the marching band. We were separated by sections based on which instrument we played and each year the band directors would select a section leader based on applications. They were usually upperclassmen and skilled players. A lot of the section leaders would be fine but some of the more hated ones were the ones that used their power to boss people around and be aggressive with the way they led. There were times to be stern but being unnecessarily mean was not a good way to lead. The closest sections were often the ones where the section leader felt like a friend rather than a parent. After all, we were all still just students.
+
+Teams with a high degree of psychological safety improve profits for companies by increasing productivity, and overall making the workspace happier.
