@@ -63,7 +63,7 @@ this class with convienet and easy to read notes
 
 ## Code 301 - Intermediate Software Development
 
-TBD
+* [Read: 14 Psychological Safety](Code-301-Reading-Notes/Class-01-Introduction-to-React-and-Components.md)
 
 ## Code 401 - Advanced Software Development
 
