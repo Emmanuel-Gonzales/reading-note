@@ -2,7 +2,7 @@
 
 ## About Myself
 
-Hello, my name is **Emmanuel Gonzales**, I am currently a student in the *Code 202* class. I have enrolled in this course to learn the basics about programing and eventually gain a job in tech.
+Hello, my name is **Emmanuel Gonzales**, I am currently a student in the *Code 301* class. I have enrolled in this course to learn the basics about programing and eventually gain a job in tech.
 
 ## What Is this Website?
 
@@ -11,7 +11,7 @@ this class with convienet and easy to read notes
 
 ## Table of Contents
 
-## Code 102 - Intro to Software Development 
+## Code 102 - Intro to Software Development
 
 * [Read: 01 - Markdown Notes](Code-102-Reading-Notes/Code-102-Reading-Notes/Class-01-Markdown-Notes.md)
 
