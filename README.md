@@ -2,7 +2,7 @@
 
 ## About Myself
 
-Hello, my name is **Emmanuel Gonzales**, I am currently a student in the *Code 301* class. I have enrolled in this course to learn the basics about programing and eventually gain a job in tech.
+Hello, my name is **Emmanuel Gonzales**, I am currently a student in the *Code 401* class. I have enrolled in this course to learn the basics about programing and eventually gain a job in tech.
 
 ## What Is this Website?
 
@@ -67,4 +67,4 @@ this class with convienet and easy to read notes
 
 ## Code 401 - Advanced Software Development
 
-TBD
+* [Read: 01 Node Ecosystem](Code-401-Reading-Notes/Class-01-Node-Ecosystem.md)
