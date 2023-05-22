@@ -1,0 +1,3 @@
+# Growth Mindset
+
+In the professional world you hear a lot about the growth mindset. It's very import that employees have a growth mindset. A growth mindset relates the the attitude a person has whenever their met with a difficult or unwinnable challenge. Having a growth mindset is to say that it's okay if I don't understand something or if I have challenges in my life, and I'll foucs my mental energy on working until I've gotten through this hurdle. This is important because it's better to have a society of workers that put all their focus on moving forward in upgrading their skill rather than looking for shortcuts and accepting downfall as inevitable.
