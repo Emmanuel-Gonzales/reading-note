@@ -72,3 +72,5 @@ this class with convienet and easy to read notes
 * [Read: 01 Node Ecosystem](Code-401-Reading-Notes/Class-01-Node-Ecosystem.md)
 
 * [Read: 02 Express, NPM, TDD, CI/CD](Code-401-Reading-Notes/Class-02)
+
+* [Read: 09 Authorization/Authentication](Code-401-Reading-Notes/class-09.md)
