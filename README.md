@@ -74,3 +74,5 @@ this class with convienet and easy to read notes
 * [Read: 02 Express, NPM, TDD, CI/CD](Code-401-Reading-Notes/Class-02)
 
 * [Read: 09 Authorization/Authentication](Code-401-Reading-Notes/class-09.md)
+
+* [Read: 10 Event Driven Applications](Code-401-Reading-Notes/class-10.md)
