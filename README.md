@@ -76,3 +76,5 @@ this class with convienet and easy to read notes
 * [Read: 09 Authorization/Authentication](Code-401-Reading-Notes/class-09.md)
 
 * [Read: 10 Event Driven Applications](Code-401-Reading-Notes/class-10.md)
+
+* [Read: 26 Component Based UI](Code-401-Reading-Notes/class-26.md)
