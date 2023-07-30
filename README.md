@@ -78,3 +78,9 @@ this class with convienet and easy to read notes
 * [Read: 10 Event Driven Applications](Code-401-Reading-Notes/class-10.md)
 
 * [Read: 26 Component Based UI](Code-401-Reading-Notes/class-26.md)
+
+* [Read: 40 Frameworks](Code-401-Reading-Notes/class-40.md)
+
+* [Read: 44 OSS Contributions](Code-401-Reading-Notes/class-41.md)
+
+* [Read: 44 Ethics In Tech](Code-401-Reading-Notes/Class-44.md)

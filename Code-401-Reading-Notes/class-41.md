@@ -1,0 +1,3 @@
+# OSS Contributions
+
+Open Source software is software with publicly available source code and open copyright permissions that allows the public to copy, alter and distribute the software in any way they please. The purpose is to create community projects that encourage people to collaborate. More developers means more eyes on the project to solve bugs, more creativity and more diversity of thought. It brings people together to work on projects for the public use. It also is a chance for developers to practice their coding skills and gain more experience under their belt working on large informational projects

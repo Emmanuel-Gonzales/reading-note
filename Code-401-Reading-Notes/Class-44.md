@@ -1,0 +1,9 @@
+# Ethics In Tech
+
+## Ethics in the workplace
+
+For this section I chose to read the article "The code I’m still ashamed of", it was an article about a developer who designed an advertisement for a drug that was disguised as a quiz not affiliated with the company. He later descovered a teenage girl who took the drug that he was advertising had committed suicide because of the side effects. He mentioned how he didnt think much of it when he was taken to build an online quiz basically meant to scam young girls until he saw the effects. The moral of the article is to be mindful of the code that you write and what your clients and companies plan to use that code for. This is important because the software industry is becoming very powerful, with the rise of AI, self-driving cars and personal data misuse, a lot of companies don't have the interest of the public at mind when making decisions. So it's up to us the developers to know our morals and what we are willing to do and not to do when taking on a project.
+
+## Ethics in Technology
+
+AI is starting to creep its way into more facets of our life including driving. Self driving cars are becoming more popular and multiple studies say that self driving cars are likely to reduce road accidents up to 90 percent. A dilemma often brought up is who should a car save when it is put in an unavoidable crash situation. The driver or the people around the car. A lot the public has accused the EV companies of not having the public's interest at mind when designing the cars. Some car manufacturers argue to take a utilitarian approach, minimize human loss not taking into account age or gender into the function. There's always the question of if the car should save the driver in any situation, since there are the ones who will  be buying. I believe that there is no easy answer to this question until the technology is developed further
